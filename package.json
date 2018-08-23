@@ -1,0 +1,9 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "description": "test",
+    "main": "server.js",
+    "dependencies": {
+        "couchbase": "^2.1.6"
+    }
+}
